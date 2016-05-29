@@ -5,7 +5,7 @@ using NSB.Azure.Messages;
 using NServiceBus;
 using NServiceBus.Logging;
 
-namespace NSB.Azure.Test.Handlers
+namespace NSB.Azure.Endpoint.Handlers
 {
     public class ProcessCommandHandler : IHandleMessages<ProcessCommand>
     {

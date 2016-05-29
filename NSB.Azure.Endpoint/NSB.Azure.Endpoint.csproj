@@ -7,8 +7,8 @@
     <ProjectGuid>{EE685A09-7626-4A07-9072-CF6004B09A69}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NSB.Azure.Test</RootNamespace>
-    <AssemblyName>NSB.Azure.Test</AssemblyName>
+    <RootNamespace>NSB.Azure.Endpoint</RootNamespace>
+    <AssemblyName>NSB.Azure.Endpoint</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -94,7 +94,6 @@
   <ItemGroup>
     <Compile Include="EndpointConfig.cs" />
     <Compile Include="Handlers\ProcessStreamDoWorkCommandHandler.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

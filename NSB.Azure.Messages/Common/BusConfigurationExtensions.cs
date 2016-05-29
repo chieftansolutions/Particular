@@ -3,7 +3,7 @@ using NServiceBus;
 using NServiceBus.Config.ConfigurationSource;
 using NServiceBus.Newtonsoft.Json;
 
-namespace NSB.Azure.Test.Common
+namespace NSB.Azure.Endpoint.Common
 {
     public static class BusConfigurationExtensions
     {

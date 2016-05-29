@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 using NSB.Azure.Messages;
-using NSB.Azure.Test.Common;
+using NSB.Azure.Endpoint.Common;
 using NServiceBus;
 
 namespace WatchGuard.Integration.Test
