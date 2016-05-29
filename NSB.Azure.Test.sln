@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSB.Azure.Test", "NSB.Azure.Test\NSB.Azure.Test.csproj", "{EE685A09-7626-4A07-9072-CF6004B09A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSB.Azure.Messages", "NSB.Azure.Messages\NSB.Azure.Messages.csproj", "{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSB.Azure.Client", "NSB.Azure.Client\NSB.Azure.Client.csproj", "{1FE92467-F654-45C5-81BA-C93AB9C66EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugCloud|Any CPU = DebugCloud|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.DebugCloud|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.DebugCloud|Any CPU.Build.0 = Debug|Any CPU
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE685A09-7626-4A07-9072-CF6004B09A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.DebugCloud|Any CPU.ActiveCfg = Debug|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.DebugCloud|Any CPU.Build.0 = Debug|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5321CCB2-C53F-4B7A-B38B-7E1811EA3301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.DebugCloud|Any CPU.ActiveCfg = DebugCloud|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.DebugCloud|Any CPU.Build.0 = DebugCloud|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE92467-F654-45C5-81BA-C93AB9C66EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
